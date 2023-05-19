@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320355021069",
+    "project_id": "yourhealth-d394a",
+    "storage_bucket": "yourhealth-d394a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320355021069:android:dd4ff905ce1a8bcdc88044",
+        "android_client_info": {
+          "package_name": "com.liz.yourhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320355021069-gbccqphs4gnr2j7v882ngfl4fgj5evkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFXoflZBA-kH6cnuVMimJfwksY0hA-OlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320355021069-gbccqphs4gnr2j7v882ngfl4fgj5evkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
